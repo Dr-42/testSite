@@ -1,0 +1,4 @@
+back #261c2c
+next #3e2c41
+next #5c527f
+text #6e85b2
